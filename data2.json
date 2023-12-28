@@ -1,0 +1,94 @@
+{
+  "nombre": "Gatewayit",
+  "ubicacion": "Carrera 14A #42-05",
+  "lon": 8.7597236,
+  "lat": -75.8720435,
+  "vehiculos": 4,
+  "pedidos": [
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.758815,
+      "lon": -75.879955
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.753183,
+      "lon": -75.870965
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.746432,
+      "lon": -75.885887
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.744548,
+      "lon": -75.880267
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.733197,
+      "lon": -75.888453
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.741022,
+      "lon": -75.883346
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.741312,
+      "lon": -75.890799
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.739283,
+      "lon": -75.879363
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.735540,
+      "lon": -75.878239
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.766869,
+      "lon": -75.877973
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.769575,
+      "lon": -75.889407
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.751814,
+      "lon": -75.864554
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.753090,
+      "lon": -75.861224
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.738283,
+      "lon": -75.890731
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.736438,
+      "lon": -75.884666
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.737415,
+      "lon": -75.881508
+    },
+    {
+      "id_pedidos": "ea00f1e9-1020-42f4-87bb-b4e9629ca6dc",
+      "lat": 8.767579,
+      "lon": -75.859833
+    }
+  ]
+}

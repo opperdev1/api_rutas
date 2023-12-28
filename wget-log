@@ -1,0 +1,11 @@
+--2023-03-08 23:18:15--  http://localhost:5000/investigacion/?depto=Putumayo
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:5000... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5 [application/json]
+Saving to: ‘index.html?depto=Putumayo’
+
+index.html?depto=Putumayo                              0%[                                                                                                                      ]       0  --.-KB/s               index.html?depto=Putumayo                            100%[=====================================================================================================================>]       5  --.-KB/s    in 0s      
+
+2023-03-08 23:18:15 (1.65 MB/s) - ‘index.html?depto=Putumayo’ saved [5/5]
+
